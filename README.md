@@ -16,3 +16,8 @@ References :
 3) 365datascience, link: https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp
 
 Note: All the figues and data are taken from different sources and i personally dont hold any of the copy rights. All the copy rights goes to the respective Authors. This is an attempt to look at python language differently in a much easier and interactive fun way of learing it using Jupyter notebook. 
+
+Contact information:
+ResearchGate:www.researchgate.net/Rik_Ganguly
+gmail: rikmicrobio@gmail.com
+Facebook: https://www.facebook.com/rik.ganguly.581
