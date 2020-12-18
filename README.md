@@ -19,5 +19,7 @@ Note: All the figues and data are taken from different sources and i personally 
 
 Contact information:
 ResearchGate:www.researchgate.net/Rik_Ganguly
+
 gmail: rikmicrobio@gmail.com
+
 Facebook: https://www.facebook.com/rik.ganguly.581
