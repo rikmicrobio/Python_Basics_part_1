@@ -1,11 +1,14 @@
-# Python_Basics_part_1
-Python is a high level and interpreted programming language. But its syntax rules enable programmers to keep the source code of custom software applications readable and maintainable. Also, the general-purpose programming language allows programmers to run the same code on multiple platforms without recompilation.
-This ipython notebook carries some basics of the following:
-1) Basic Syntax and concepts involved in Python.
-2) Ordinary Logistic regression (OLR).
-3) Multiple linear regression (MLR). 
+## Python_Basics_part_1
 
-Prior Knowledge that are required to understand this??
+![title](download.jpg)
+
+### Python is a high level and interpreted programming language. But its syntax rules enable programmers to keep the source code of custom software applications readable and maintainable. Also, the general-purpose programming language allows programmers to run the same code on multiple platforms without recompilation.
+This ipython notebook carries some basics of the following:
+> 1) Basic Syntax and concepts involved in Python.
+> 2) Ordinary Logistic regression (OLR).
+> 3) Multiple linear regression (MLR). 
+
+##Prior Knowledge that are required to understand this??
 
 * Basic idea about Jupyter Notebook is required,
 * Basic knowladge about Anaconda and package installation,
